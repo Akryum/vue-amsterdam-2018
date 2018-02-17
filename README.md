@@ -33,4 +33,6 @@ import HelloWorld from './components/ApolloExample.vue'
 
 **Step 3**
 
-:ok_hand: Enjoy! :cat2: (and [read the docs](https://github.com/Akryum/vue-apollo))
+👾 You can play with the GraphQL API at [http://localhost:4000/](http://localhost:4000/).
+
+:ok_hand: Enjoy! :cat2: (Also, [read the docs](https://github.com/Akryum/vue-apollo).)
