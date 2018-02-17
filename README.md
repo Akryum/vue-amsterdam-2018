@@ -15,6 +15,9 @@ cd my-app
 yarn add -D vue-cli-plugin-apollo
 vue invoke apollo
 # ? Add a GraphQL API Server? Yes
+yarn run graphql-api
+# In another terminal:
+yarn run serve
 ```
 
 **Step 2**
