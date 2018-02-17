@@ -2,7 +2,7 @@
 
 Demo sources of my talk at [Vue Amsterdam 2018](http://www.vuejs.amsterdam/)
 
-[Slides of the talk](http://slides.com/akryum/vue-amsterdam-2018#/)
+Slides of the talk: [Vue, Apollo and GraphQL: the Ultimate Stack](http://slides.com/akryum/vue-amsterdam-2018#/)
 
 **Step 1**
 
