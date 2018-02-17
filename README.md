@@ -3,7 +3,7 @@ Demo sources of my talk at Vue Amsterdam 2018
 
 **Step 1**
 
-Create a new vue-cli 3 project and invoke the apollo plugin:
+:star: Create a new vue-cli 3 project and invoke the apollo plugin:
 
 ```bash
 yarn global add @vue/cli
@@ -16,7 +16,7 @@ vue invoke apollo
 
 **Step 2**
 
-Edit the `App.vue` file to try the `ApolloExample.vue` component:
+:pencil: Edit the `App.vue` file to try the `ApolloExample.vue` component:
 
 ```js
 import HelloWorld from './components/HelloWorld.vue'
@@ -30,4 +30,4 @@ import HelloWorld from './components/ApolloExample.vue'
 
 **Step 3**
 
-Enjoy! :cat2: (and [read the docs](https://github.com/Akryum/vue-apollo))
+:ok_hand: Enjoy! :cat2: (and [read the docs](https://github.com/Akryum/vue-apollo))
