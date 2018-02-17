@@ -1,5 +1,8 @@
 # vue-amsterdam-2018
-Demo sources of my talk at [Vue Amsterdam 2018](http://www.vuejs.amsterdam/).
+
+Demo sources of my talk at [Vue Amsterdam 2018](http://www.vuejs.amsterdam/)
+
+[Slides of the talk](http://slides.com/akryum/vue-amsterdam-2018#/)
 
 **Step 1**
 
