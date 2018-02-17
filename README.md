@@ -27,3 +27,7 @@ To:
 ```js
 import HelloWorld from './components/ApolloExample.vue'
 ```
+
+**Step 3**
+
+Enjoy! :cat2: (and [read the docs](https://github.com/Akryum/vue-apollo))
